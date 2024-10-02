@@ -1,0 +1,38 @@
+.dedline_scroll {
+}
+.marquee_content {
+  background: green;
+  padding: 20px;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+hr {
+  border: none;
+  background-color: red;
+  padding: 5px;
+}
+.menu_bar {
+}
+
+.nav_bar {
+  background: #5b2c6f;
+  padding: 25px;
+  display: flex;
+  justify-content: end;
+}
+
+ul li {
+  /* list-style: none; */
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 14px 15px;
+  font-family: arial;
+  text-transform: capitalize;
+}
